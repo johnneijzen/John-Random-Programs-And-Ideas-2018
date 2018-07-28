@@ -1,1 +1,4 @@
-# john-random-programs-and-ideas-2018
+# John-Random-Programs-And-Ideas-2018
+
+
+# This mostly gonna be write of old code
